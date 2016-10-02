@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileChooserDemo()
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=path
+comment2.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+comment2.text=Returns\ an\ ImageIcon,\ or\ null\ if\ the\ path\ was\ invalid.
+comment3.params=
+comment3.target=void\ createAndShowGUI()
+comment3.text=\r\n\ Create\ the\ GUI\ and\ show\ it.\ \ For\ thread\ safety,\r\n\ this\ method\ should\ be\ invoked\ from\ the\r\n\ event\ dispatch\ thread.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ run()
+numComments=6
